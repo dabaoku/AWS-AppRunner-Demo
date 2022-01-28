@@ -1,19 +1,14 @@
 {
-  "name": "aws-apprunner-demo",
-  "description": "",
+  "name": "AWS-AppRunner-Demo",
   "version": "1.0.0",
+  "description": "",
   "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.2"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/dabaoku/AWS-AppRunner-Demo.git"
-  },
   "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/dabaoku/AWS-AppRunner-Demo/issues"
-  },
-  "homepage": "https://github.com/dabaoku/AWS-AppRunner-Demo#readme"
+  "license": "ISC"
 }
