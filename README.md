@@ -62,7 +62,7 @@
 ```
 
 ### Resources
-* PowerPoint
+* [PowerPoint](https://drive.google.com/file/d/1AJ9VmEJ7HxCZG4cmOb2nAy_euSxnBWdE/view?usp=sharing)
 * Special thanks to Nick Chao and Wyne Tan(2020 AWS Educate Student Ambassador @AWS) for the [material](https://github.com/sefx5ever/SITCON_AWS_AppRunner_Sample)
 
 
